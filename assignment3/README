@@ -1,0 +1,13 @@
+This folder (csci596-as03) contains instruction and codes needed to complete assignment 3
+for CSCI 596.
+
+as03.pdf: Assignment.
+
+global_avg_blank.c: The same MPI program template as assignment 2, which you must have
+completed by now. Please use your completed assignment 2 code as a starting point of
+this assignment.
+
+pi.c: Serial C program to compute the value of PI.
+
+global_pi.sl: Slurm script.
+
